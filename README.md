@@ -1,1 +1,0 @@
-# 8week-SQL-Challenge
