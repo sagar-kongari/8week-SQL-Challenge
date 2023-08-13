@@ -1,4 +1,4 @@
-# Case Study #2 - Pizza Runner
+# 🍕 Case Study #2 - Pizza Runner
 
 ## ❓ Questions & Answers
 ## PART 0 - Data Transformation & Cleaning
